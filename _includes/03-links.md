@@ -1,1 +1,1 @@
-[inspiration] (https://www.awwwards.com/)
+([inspiration] (https://www.awwwards.com/))
